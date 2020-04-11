@@ -1,0 +1,41 @@
+.nos-produits-section-one-container {
+    width: 100%;
+    background-color: #fff;
+    padding: 90px 0;
+}
+
+.nos-produits-section-one-container>div {
+    width: 80%;
+    width: 80%;
+    margin: auto;
+}
+
+.nos-produits-section-one-container>div>h2 {
+    text-align: center;
+    color: #aaaaaa;
+    font-size: 18px;
+    padding: 25px 0 15px;
+    font-family: 'Montserrat',
+        sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+
+}
+
+.nos-produits-section-one-container>div>div {
+    width: 60px;
+    height: 3px;
+    background-color: #b19f6f;
+    margin: 0 auto 23px;
+}
+
+.nos-produits-section-one-container>div>p {
+    color: #212529;
+    width: 100%;
+    font-size: 16px;
+    font-family: 'Poppins',
+        sans-serif;
+    line-height: 1.5em;
+    padding: 1em 0;
+    font-weight: 400;
+}
